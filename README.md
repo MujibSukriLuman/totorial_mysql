@@ -4,7 +4,7 @@
 3. log in with the code making before(when installing mysql), please follow this image
 
 <img width="573" alt="Screenshot 2024-03-05 at 10 04 37 PM" src="https://github.com/nurastars/totorial_mysql/assets/149975589/22ab1592-b92a-4381-9ea2-66cb17eb0322">
-please see at this sample in i
+
 <img width="502" alt="Screenshot 2024-03-05 at 10 16 46 PM" src="https://github.com/nurastars/totorial_mysql/assets/149975589/e4c34481-9d4f-4a9b-8dea-fb326abd1ca6">
 
 ![Screenshot 2024-03-05 at 10 34 38 PM](https://github.com/nurastars/totorial_mysql/assets/149975589/095367a6-9794-4c80-8fe8-cc0227fd4956)
