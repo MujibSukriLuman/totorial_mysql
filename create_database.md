@@ -9,6 +9,10 @@
 
 ![Screenshot 2024-03-05 at 10 34 38 PM](https://github.com/nurastars/totorial_mysql/assets/149975589/095367a6-9794-4c80-8fe8-cc0227fd4956)
 
+#### IF NOT EXISTS = for avoid error if there is database with the same name, and the name added.
+### CREATE SCHEMA = sinonem from CREATE DATABASE
+
+
 ![Screenshot 2024-03-05 at 10 34 53 PM](https://github.com/nurastars/totorial_mysql/assets/149975589/3f399ea4-78a9-4cbc-8f4e-d706eb3ad62b)
 
 ![Screenshot 2024-03-05 at 10 36 31 PM](https://github.com/nurastars/totorial_mysql/assets/149975589/6f1d4c06-8236-4f8c-8fc4-7bc417f46cdc)
